@@ -8,11 +8,11 @@
 ## Scripts' description 
 - *convert_sam_types.py*: convert full format of SAM table 
 
-        <img src="https://github.com/zhus-dika/cge_gamspy/blob/main/data/sam_type_2.jpeg" alt="drawing" width="450"/>
+<img src="https://github.com/zhus-dika/cge_gamspy/blob/main/data/sam_type_2.jpeg" alt="drawing" width="650"/>
 
-        to short format:
+to short format:
 
-        <img src="https://github.com/zhus-dika/cge_gamspy/blob/main/data/sam_type_1.png" alt="drawing" width="450"/>
+<img src="https://github.com/zhus-dika/cge_gamspy/blob/main/data/sam_type_1.PNG" alt="drawing" width="650"/>
 
 - *aggregate.py*: 
 
