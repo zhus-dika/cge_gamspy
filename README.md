@@ -5,8 +5,11 @@
 - `.\cge_gamspy\Scripts\activate`
 - `pip install -r requirements.txt`
 
-## Scripts' description 
-- *convert_sam_types.py*: convert full format of SAM table 
+## Scripts' description
+
+### *convert_sam_types.py* 
+
+convert full format of SAM table 
 
 <img src="https://github.com/zhus-dika/cge_gamspy/blob/main/data/sam_type_2.jpeg" alt="drawing" width="650"/>
 
@@ -14,7 +17,17 @@ to short format:
 
 <img src="https://github.com/zhus-dika/cge_gamspy/blob/main/data/sam_type_1.PNG" alt="drawing" width="650"/>
 
-- *aggregate.py*: 
+### *aggregate.py* 
+
+compress of industries to overcome the limitation of the gams license
+
+### *main.py* 
+
+example gamspy code
+
+### *main_custom.py* 
+
+main gamspy code for custom data
 
 ## Industries
 1. Agriculture 
